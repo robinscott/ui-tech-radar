@@ -45,7 +45,8 @@ UI Tech radar
 
 
 Books
-•	https://shop.smashingmagazine.com/smashing-the-mobile-digital-bundle.html
+-----
+*	https://shop.smashingmagazine.com/smashing-the-mobile-digital-bundle.html
 
 Learning challenges
 -------------------
