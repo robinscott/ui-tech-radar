@@ -48,9 +48,15 @@ Books
 •	https://shop.smashingmagazine.com/smashing-the-mobile-digital-bundle.html
 
 Learning challenges
+
 •	Shopping basket (Red Gate test)
+
 •	Carousel
+
 •	To do list
+
 •	Desktop and mobile dropdown menu
+
 •	Integrate Google Maps, Twitter and Facebook into website
+
 •	Responsive emails
