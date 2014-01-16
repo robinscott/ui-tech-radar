@@ -5,58 +5,59 @@ A short list of some current technology for UI development.
 
 UI Tech radar
 
-•	Compass
+* Compass
 
-•	Modernizr
+* Modernizr
 
-•	Coffee Script
+* Coffee Script
 
-•	SASS
+* SASS
 
-•	Knockout.js
+* Knockout.js
 
-•	Angular.js
+* Angular.js
 
-•	CodePen
+* odePen
 
-•	Mustache templates
+* Mustache templates
 
-•	Git and GitHub
+* Git and GitHub
 
-•	Chrome Dev Tools
+* Chrome Dev Tools
 
-•	iOS UI developers guidelines 
+* iOS UI developers guidelines 
 
-•	Grunt
+* Grunt
 
-•	Yeoman
+* Yeoman
 
-•	CSS keyframe animation
+* CSS keyframe animation
 
-•	Bootstrap
+* Bootstrap
 
-•	Node.js
+* Node.js
 
-•	Responsive grids
+* Responsive grids
 
-•	CSS Grid and Flexbox
+* CSS Grid and Flexbox
 
-•	Markdown
+* Markdown
 
 
 Books
 •	https://shop.smashingmagazine.com/smashing-the-mobile-digital-bundle.html
 
 Learning challenges
+-------------------
 
-•	Shopping basket (Red Gate test)
+* Shopping basket (Red Gate test)
 
-•	Carousel
+* Carousel
 
-•	To do list
+* To do list
 
-•	Desktop and mobile dropdown menu
+* Desktop and mobile dropdown menu
 
-•	Integrate Google Maps, Twitter and Facebook into website
+* Integrate Google Maps, Twitter and Facebook into website
 
-•	Responsive emails
+* Responsive emails
