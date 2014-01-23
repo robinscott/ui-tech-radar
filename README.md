@@ -17,7 +17,7 @@ UI Tech radar
 
 * Angular.js
 
-* odePen
+* CodePen
 
 * Mustache templates
 
