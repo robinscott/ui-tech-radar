@@ -35,13 +35,9 @@ Learning challenges
 -------------------
 
 * Shopping basket (Red Gate test)
-
 * Carousel
-
 * To do list
-
+* Address book
 * Desktop and mobile dropdown menu
-
 * Integrate Google Maps, Twitter and Facebook into website
-
 * Responsive emails
