@@ -25,6 +25,7 @@ UI Tech radar
 * CSS Grid and Flexbox
 * Markdown
 * Jasmine, Mocha, QUnit / JUnit
+* Web components
 
 
 Books
