@@ -19,18 +19,13 @@ UI Tech radar
 * Grunt
 * Yeoman
 * CSS keyframe animation
-* Bootstrap
+* Bootstrap, Foundation
 * Node.js
 * Responsive grids
 * CSS Grid and Flexbox
 * Markdown
 * Jasmine, Mocha, QUnit / JUnit
 * Web components
-
-
-Books
------
-*	https://shop.smashingmagazine.com/smashing-the-mobile-digital-bundle.html
 
 Learning challenges
 -------------------
